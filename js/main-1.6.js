@@ -89,5 +89,5 @@ $(function() {
 			event.preventDefault();
 	});
 
-    $('figure.responsive-image').picture();
+	$('figure.responsive-image').picture();
 });
