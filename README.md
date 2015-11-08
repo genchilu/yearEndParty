@@ -1,4 +1,4 @@
-fork from: https://github.com/bmgdev/responsive-wedding.git
+fork from: https://github.com/bmgdev/responsive-wedding.git  
 demo: http://genchilu.github.io/yearEndParty/
 
 responsive-wedding
