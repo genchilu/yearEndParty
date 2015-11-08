@@ -519,8 +519,12 @@ section h2 {
 		float: none;
 		width: 100%;
 	}
-	.column {
+	.column.left {
 		float: left;
+		width: 50%;
+	}
+	.column.right {
+		float: right;
 		width: 50%;
 	}
 	.column p {
