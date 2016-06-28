@@ -1,18 +1,7 @@
+# 公司尾牙報名網站
+
 fork from: https://github.com/bmgdev/responsive-wedding.git  
 demo: http://genchilu.github.io/yearEndParty/
-
-responsive-wedding
-------------------
-
-An HTML5 responsive design using jquery waypoints & scroll-to for a pleasant single-page navigation. This template makes use of media queries and scales well for all mobile form-factors.
-
-A live demo can be viewed at:
-
-   http://sarahlovesbradley.com
-
-========
-
-![Preview](https://github.com/bmgdev/responsive-wedding/blob/master/preview.png?raw=true)
 
 ## LICENSE
 
